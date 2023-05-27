@@ -1,0 +1,13 @@
+.colored-section1{
+    background-color: rgb(197, 41, 93);
+    text-align: center;
+    color: white;
+    overflow: hidden;
+    height: 400px;
+}
+
+.iphone{
+    margin-top: 80px;
+    width: 200px;
+    transform: rotate(20deg);
+}
